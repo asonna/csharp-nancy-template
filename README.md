@@ -3,7 +3,7 @@
 
 _{Brief Details}, {Date}_
 
-_By Levi Bibo_
+_By Annie Sonna_
 
 ##Description
 
@@ -27,4 +27,4 @@ _This site was built using {technologies}_
 
 _Created under an MIT license._
 
-_Copyright (c) {2016} Levi Bibo_
+_Copyright (c) {2016} Annie Sonna_
